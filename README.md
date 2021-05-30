@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alfredo-zimperz" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="alfredo-zimperz" height="40" width="40" />/www.linkedin.com/in/alfredo-zimperz/</a>
+<a href="https://linkedin.com/in/alfredo-zimperz" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="alfredo-zimperz" height="40" width="40" />   linkedin.com/in/alfredo-zimperz</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
