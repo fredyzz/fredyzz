@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alfredo Zimperz</h1>
 <h3 align="center">I am a fullstack developer and an entrepreneur</h3>
 
+- 📍 I'm living in Barcelona, Spain
+
 - 🔭 I’m currently working on **a self-service app for restaurants**
 
 - 🌱 I’m currently learning **React Native**
