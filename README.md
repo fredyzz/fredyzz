@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Redux, Node, Mongo, and bikes**
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alfredo-zimperz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="alfredo-zimperz" height="30" width="40" /></a>
 </p>
