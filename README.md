@@ -3,17 +3,17 @@
 
 - 📍 I'm living in Barcelona, Spain
 
-- 🔭 I’m currently working on **a self-service app for restaurants**
+- 🔭 I’m currently working in **<a href="https://adevinta.es" target="_blank">Adevinta Spain</a>**
 
 - 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fredyzz](https://github.com/fredyzz)
 
-- 💬 Ask me about **React, Redux, Node, Mongo, and bikes**
+- 💬 Ask me about **React, Context & Redux, Node, Mongo, and bikes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alfredo-zimperz" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="alfredo-zimperz" height="40" width="40" />   linkedin.com/in/alfredo-zimperz</a>
+<a href="https://linkedin.com/in/alfredo-zimperz" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" alt="alfredo-zimperz" height="40" width="40" />   linkedin.com/in/alfredo-zimperz</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
